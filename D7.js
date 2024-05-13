@@ -52,9 +52,28 @@ const NumeriFiltrati = function filtraPari(array) {
   Scrivi una funzione per sommare i numeri contenuti in un array
 */
 
+/*RISPOSTA
+*/
+
+const numerii = [2, 5, 7, 9, 24]
+
+let sommaNumeri = 0
+
+array.array.forEach((elemento, indice) => {
+  sommaIndici += indice;
+
+})
+
 /* ESERCIZIO 5 (reduce)
   Scrivi una funzione per sommare i numeri contenuti in un array
 */
+
+/*RISPOSTA
+*/
+
+
+
+
 
 /* ESERCIZIO 6 (map)
   Scrivi una funzione che, dato un array di soli numeri e un numero n come parametri, ritorni un secondo array con tutti i valori del precedente incrementati di n
